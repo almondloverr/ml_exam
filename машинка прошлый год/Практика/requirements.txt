@@ -1,0 +1,10 @@
+wheel==0.37.1
+
+numpy==1.22.4
+scipy==1.8.1
+pandas==1.4.2
+
+scikit-learn==1.1.1
+
+matplotlib==3.5.2
+seaborn==0.11.2
