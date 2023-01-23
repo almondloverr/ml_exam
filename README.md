@@ -1,4 +1,5 @@
 # ml_exam
 экзамен по машинкам, 5 семестр
 
-1. [датасет](https://www.kaggle.com/datasets/uciml/mushroom-classification?datasetId=478&sortBy=voteCount) Mushroom Classification: [пример разбора классификации](https://colab.research.google.com/drive/11nmDc4DQ_mXHoswcE7rgYHCYCBcKM42B?usp=sharing)
+1. [датасет](https://www.kaggle.com/datasets/uciml/mushroom-classification?datasetId=478&sortBy=voteCount) Mushroom Classification: [пример разбора датасета в колабе](https://colab.research.google.com/drive/11nmDc4DQ_mXHoswcE7rgYHCYCBcKM42B?usp=sharing)
+2. [датасет](https://www.kaggle.com/datasets/uciml/glass) Glass Classification: [пример разбора датасета в колабе](https://colab.research.google.com/drive/1zxhs-U3zNqlmFm1y59FN94fS4QCQklRj?usp=sharing)
